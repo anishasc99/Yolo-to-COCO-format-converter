@@ -11,11 +11,14 @@ import numpy as np
 
 # Class에 맞게 바꿔줘야함
 classes = [
-"chair",
-"handle",
-"table",
-"button",
-"person",
+"date",
+"from",
+"invoice_number",
+"product_name",
+"product_price",
+"product_quantity",
+"to",
+"total_amount"
 ]
 
 # Get 'images' and 'annotations' info
